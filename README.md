@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🚆 Railway Ticket Management System
 
 A Python-MySQL Railway Ticket Management System for booking, canceling, and managing train tickets. Features secure login, real-time seat tracking, and robust database operations. Designed for reliability, tested thoroughly, and ideal for academic or backend development projects.
@@ -24,7 +20,7 @@ A Python-MySQL Railway Ticket Management System for booking, canceling, and mana
    ```bash
    git clone https://github.com/BEASTROHO/Railway-Ticket-Management-System.git
    cd Railway-Ticket-Management-System
-   ```
+
 
 2. **Set up MySQL**
    - Create a database named `railway_db`
